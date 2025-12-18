@@ -5,5 +5,5 @@
 ![Image](https://github.com/user-attachments/assets/a6523ec3-a464-4c58-9a7c-24c21cde9278)
 ***<p align="center"> воксвалы как их там... телек и моль </p>***
   <p align="Center">
-  <img src="https://komarev.com/ghpvc/?username=bambolinaa&style=flat-square&color=red" alt=""
+  <img src="https://komarev.com/ghpvc/?username=bambolinaa&style=plastic&color=red" alt=""
 </p>
