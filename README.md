@@ -1,4 +1,4 @@
-***<p align="center"> HIII ^_^ ьля не eбy как делать этот гитхаб могу только гиф добавить </p>***
+***<p align="center"> HIII)) не eбy как делать этот гитхаб могу только гиф добавить </p>***
 ![Image](https://github.com/user-attachments/assets/f6ca9470-1760-4721-b315-d5fdafa7a396)
 ![Image](https://github.com/user-attachments/assets/8879d0d3-37d9-4bc4-ba81-5936c8d31888)
 ![Image](https://github.com/user-attachments/assets/ff4da9fd-df13-4206-8e81-718c1ac097fe)
