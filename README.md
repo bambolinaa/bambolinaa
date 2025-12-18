@@ -4,4 +4,6 @@
 ![Image](https://github.com/user-attachments/assets/ff4da9fd-df13-4206-8e81-718c1ac097fe)
 ![Image](https://github.com/user-attachments/assets/a6523ec3-a464-4c58-9a7c-24c21cde9278)
 ***<p align="center"> воксвалы как их там... телек и моль </p>***
-![](https://komarev.com/ghpvc/?bambolinaa&color=red)
+  <p align="Center">
+ <img src="![](https://komarev.com/ghpvc/?bambolinaa&color=red)alt=""
+</p>
