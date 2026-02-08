@@ -2,8 +2,6 @@
 ![Image](https://github.com/user-attachments/assets/c58ad79c-65a8-4fb0-a7f4-97d52de0caf2)
 ![Image](https://github.com/user-attachments/assets/f6ca9470-1760-4721-b315-d5fdafa7a396)
 ![Image](https://github.com/user-attachments/assets/8879d0d3-37d9-4bc4-ba81-5936c8d31888)
-![Image](https://github.com/user-attachments/assets/ff4da9fd-df13-4206-8e81-718c1ac097fe)
-![Image](https://github.com/user-attachments/assets/a6523ec3-a464-4c58-9a7c-24c21cde9278)
 ***<p align="center"> меньше чем три </3 </p>***
   <p align="Center">
   <img src="https://komarev.com/ghpvc/?username=bambolinaa&style=plastic&color=red" alt=""
