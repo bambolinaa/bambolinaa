@@ -1,5 +1,4 @@
 ***<p align="center"> HIII)) не eбy как делать этот гитхаб могу только гиф добавить </p>***
-<p align="center">
   
 ![Image](https://github.com/user-attachments/assets/c58ad79c-65a8-4fb0-a7f4-97d52de0caf2)
 
