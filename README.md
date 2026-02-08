@@ -4,7 +4,7 @@
 ![Image](https://github.com/user-attachments/assets/ff4da9fd-df13-4206-8e81-718c1ac097fe)
 ![Image](https://github.com/user-attachments/assets/a6523ec3-a464-4c58-9a7c-24c21cde9278)
 ![Image](https://github.com/user-attachments/assets/c58ad79c-65a8-4fb0-a7f4-97d52de0caf2)
-***<p align="center"> brighter !!!⚡</p>***
+***<p align="center"> меньше чем три </3 </p>***
   <p align="Center">
   <img src="https://komarev.com/ghpvc/?username=bambolinaa&style=plastic&color=red" alt=""
 </p>
