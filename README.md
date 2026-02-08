@@ -1,6 +1,8 @@
 ***<p align="center"> HIII)) не eбy как делать этот гитхаб могу только гиф добавить </p>***
 <p align="center">
-![Image](https://github.com/user-attachments/assets/c58ad79c-65a8-4fb0-a7f4-97d52de0caf2) </p>
+  
+![Image](https://github.com/user-attachments/assets/c58ad79c-65a8-4fb0-a7f4-97d52de0caf2)
+ </p>
   
 ![Image](https://github.com/user-attachments/assets/f6ca9470-1760-4721-b315-d5fdafa7a396)
 
