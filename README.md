@@ -4,7 +4,8 @@
 <img width="736" height="173" alt="IMG_9475" src="https://github.com/user-attachments/assets/3cb39172-e60e-4057-a378-c70e3465b716" />
 <img width="736" height="173" alt="IMG_9481" src="https://github.com/user-attachments/assets/3cb115d0-f5b1-437f-8da1-02e203ecbf1f" />
 
-![Tmage](https://github.com/user-attachments/assets/27f6fb7c-9d0d-44ca-89de-9d6fbc9f3c09)
+<img width="12102" height="4763" alt="IMG_9484" src="https://github.com/user-attachments/assets/3f425475-10ae-4b0e-852f-cd8a7bfe3bca" />
+
 
 
 
