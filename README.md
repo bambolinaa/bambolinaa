@@ -1,6 +1,7 @@
 ***<p align="center"> HII! HEWWOO ──★ ˙ ̟ !! </p>***
 
-<img width="1200" height="675" alt="ed23e7bb435366a91764d88318a3f23d" src="https://github.com/user-attachments/assets/e539acf5-8f00-49dc-8a77-53f75887818a" />
+<img width="1199" height="400" alt="7018cfc91e2ba65cb498d621ffb56cfe" src="https://github.com/user-attachments/assets/db3dae7d-f7c2-4d83-b10e-fbb22494f3ce" />
+
 
 ![Image](https://github.com/user-attachments/assets/8879d0d3-37d9-4bc4-ba81-5936c8d31888)
 
