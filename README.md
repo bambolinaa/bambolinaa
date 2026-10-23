@@ -10,8 +10,6 @@
 <br> <img width="350" src='https://github.com/user-attachments/assets/8879d0d3-37d9-4bc4-ba81-5936c8d31888'>
        </p>
 
-***<p align="center"> ⋆˚꩜｡ </p>***
-
   <p align="Center">
   <img src="https://komarev.com/ghpvc/?username=bambolinaa&style=plastic&color=red" alt=""
 </p>
